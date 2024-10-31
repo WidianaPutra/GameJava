@@ -1,0 +1,9 @@
+
+
+mencetak isi array dari colom dengan index 1 dan isi baris dengan index 0, pada colom dengan index 1;
+looping untuk mencetak isi kolom pada array dengan index i;
+
+
+selama i < (lebih kecil dari) panjang array angka
+then -> mencetak isi kolom array angka dengan index i
+then -> i++
